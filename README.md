@@ -1,4 +1,4 @@
-markdown
+
 <h1 align="center">Hi 👋, I'm Sobhan</h1>
 <h3 align="center">Backend Developer • Cyber Security Lover</h3>
 
@@ -63,12 +63,6 @@ A smart fool who knows nothing
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" />
 
 <br>
-
-
-
-[████████████████░░░░░░░░] 68% ENCRYPTED
-
-
 
 <br>
 
