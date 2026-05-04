@@ -14,6 +14,7 @@ A smart fool who knows everything
 - 🌐 Learning more about Networking
 - 🐧 Linux enthusiast
 - 🧠 Always exploring systems and security concepts
+- data science 
 
 ---
 
@@ -41,7 +42,32 @@ A smart fool who knows everything
 Debug Kit
 
 A toolkit designed to help with debugging and development utilities.  
-*(Not publicly released yet)
+*(Not publicly released yet)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhan0123&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhan0123&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhan0123&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sobhan0123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
 ---
 
 ## 🧠 Interests
@@ -52,4 +78,3 @@ A toolkit designed to help with debugging and development utilities.
 - Linux
 
 ---
-bye bye
