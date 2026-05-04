@@ -1,15 +1,12 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sobhan</h1>
-<h3 align="center">Backend Developer • Cyber Security Lover</h3>
-
-<p align="center">
-A smart fool who knows nothing 
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Sobhan;Backend+Developer+%7C+Cyber+Security+Lover;Python+%7C+Django+%7C+Linux;A+smart+fool+who+knows+everything" />
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
