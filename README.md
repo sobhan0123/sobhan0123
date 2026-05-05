@@ -62,7 +62,7 @@
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" width="40" alt="Cyber Security"/><br>Cyber Security | <img src="https://img.icons8.com/fluency/48/000000/networking-manager.png" width="40" alt="Networking"/><br>Networking | <img src="https://img.icons8.com/fluency/48/000000/server.png" width="40" alt="Backend Systems"/><br>Backend Systems | <img src="https://img.icons8.com/fluency/48/000000/linux.png" width="40" alt="Linux"/><br>Linux | <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="40" alt="Data Science"/><br>Data Science |
+| <img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" width="40" alt="Cyber Security"/><br>Cyber Security | <img src="https://img.icons8.com/fluency/48/000000/networking-manager.png" width="40" alt="Networking"/><br>Networking | <img src="https://img.icons8.com/fluency/48/000000/server.png" width="40" alt="Backend Systems"/><br>Backend Systems | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux"/><br>Linux | <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="40" alt="Data Science"/><br>Data Science |
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
